@@ -1,0 +1,15 @@
+table {
+    border-collapse: collapse;
+  }
+  table th, table td {
+    width:5em;
+    text-align:center;
+    border: solid 1px #000;
+  }
+  img{
+    display:block;
+    margin:2em 0 0;
+  }
+  input{
+    margin:1em 0 2em;
+  }
